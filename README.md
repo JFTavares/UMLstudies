@@ -1,2 +1,2 @@
 # UMLstudies
-python codes for classification of UML diagrams
+Dataset of UML diagrams for CNN training.
